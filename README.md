@@ -9,19 +9,19 @@ This is a personal toolkit of reusable functions that make everyday data work fa
 Download the latest `.whl` file from the [Releases](https://github.com/elpahlevi/data-tools/releases) page, then install it:
 
 ```bash
-pip install data_tools-1.0.0-py3-none-any.whl
+pip install data_tools-1.0.1-py3-none-any.whl
 ```
 
 Or install directly from the release URL:
 
 ```bash
-pip install https://github.com/elpahlevi/data-tools/releases/download/v1.0.0/data_tools-1.0.0-py3-none-any.whl
+pip install https://github.com/elpahlevi/data-tools/releases/download/v1.0.1/data_tools-1.0.1-py3-none-any.whl
 ```
 
 With [uv](https://docs.astral.sh/uv/):
 
 ```bash
-uv pip install https://github.com/elpahlevi/data-tools/releases/download/v1.0.0/data_tools-1.0.0-py3-none-any.whl
+uv pip install https://github.com/elpahlevi/data-tools/releases/download/v1.0.1/data_tools-1.0.1-py3-none-any.whl
 ```
 
 **Requirements:** Python 3.9+. Dependencies (`pandas`, `tqdm`, `openpyxl`) are installed automatically.

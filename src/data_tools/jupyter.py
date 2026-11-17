@@ -20,7 +20,7 @@ def read_multi_excel_concurrent(folder: str, dtype: dict, max_workers: int = 4, 
             check=False,
         )
         if proc.returncode != 0:
-            raise RuntimeError(f"data_tools.cli gagal (exit {proc.returncode})")
+            raise RuntimeError(f"data_tools.cli failed to execute (exit {proc.returncode})")
         return pickle.loads(proc.stdout)
     finally:
         os.remove(dtype_path)

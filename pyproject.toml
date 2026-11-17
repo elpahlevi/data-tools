@@ -1,6 +1,6 @@
 [project]
 name = "data-tools"
-version = "1.0.0"
+version = "1.0.1"
 description = "A collection of helper utilities for data analysis and data engineering workflows"
 readme = "README.md"
 authors = [
