@@ -1,7 +1,7 @@
 [project]
 name = "data-tools"
 version = "1.0.0"
-description = "Collection of Helper Packages for Data Analysis"
+description = "A collection of helper utilities for data analysis and data engineering workflows"
 readme = "README.md"
 authors = [
     { name = "Muhamad Reza Pahlevi", email = "mrpahlevi.work@gmail.com" }
