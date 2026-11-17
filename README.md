@@ -64,8 +64,8 @@ df = read_multi_excel_concurrent(
 This project uses [uv](https://docs.astral.sh/uv/).
 
 ```bash
-git clone https://github.com/<username>/<repo>.git
-cd <repo>
+git clone https://github.com/elpahlevi/data-tools.git
+cd data-tools
 uv sync
 uv build
 ```
